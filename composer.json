@@ -1,0 +1,6 @@
+{
+    "require": {
+        "phpclassic/php-shopify": "^1.1",
+        "vlucas/phpdotenv": "^4.1"
+    }
+}
